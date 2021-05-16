@@ -2,7 +2,7 @@ package com.androidbpn.bpn;
 
 public class Notification {
     public static int getPostNumber () {
-        //start timer for Notification
+        //Notificationcode insert here
         return 1;
     }
 }
