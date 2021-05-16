@@ -2,6 +2,7 @@
 A small Webview App to Display the Wordpress Website "Blaupause Nürnberg".
 
 You can use it for your Wordpresswebsite as well.
+
 Change:
 
 *packagename* in: AndroidManifest.xml, activity_main.xml, MainActivity.java, CostumWebViewClient.java, Notification.java
