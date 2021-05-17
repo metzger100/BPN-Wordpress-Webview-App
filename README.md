@@ -1,4 +1,14 @@
 # BPN-Webview-Wordpress-App
+
+Bei uns finden Sie Inhalte aus Ihrer Region - von Studenten der Hochschule Nürnberg. 
+
+Wir informieren sie: mit Portraits, Tipps für die Freizeitgestaltung, Beiträgen über Flora und Fauna, leckeren Rezepten und vielem mehr. Lesen Sie bei uns über Ihre Heimat Nürnberg und Umgebung. 
+
+Der Blog entstand im Rahmen der Studiengangs Technischer Journalismus und PR
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+FOR DEVS:
+
 A small Webview App to Display the Wordpress Website "Blaupause Nürnberg".
 
 You can use it for your Wordpresswebsite as well.
