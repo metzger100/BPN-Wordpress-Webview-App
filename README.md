@@ -2,7 +2,7 @@
 
 Bei uns finden Sie Inhalte aus Ihrer Region - von aufbereitet von Studenten der Hochschule Nürnberg. 
 
-Wir informieren sie: mit Portraits, Tipps für die Freizeitgestaltung, Beiträgen über Flora und Fauna, leckeren Rezepten und vielem mehr. Lesen Sie bei uns über Ihre Heimat Nürnberg und Umgebung. 
+Wir informieren Sie: mit Portraits, Tipps für die Freizeitgestaltung, Beiträgen über Flora und Fauna, leckeren Rezepten und vielem mehr. Lesen Sie bei uns über Ihre Heimat Nürnberg und Umgebung. 
 
 Der Blog entstand im Rahmen der Studiengangs Technischer Journalismus und PR
 
