@@ -30,7 +30,7 @@ public class CustomWebViewClient extends WebViewClient {
                         String fallbackUrl = intent.getStringExtra("browser_fallback_url");
                         view.loadUrl(fallbackUrl);
 
-//                    or call external broswer
+//                    or call external browser
 //                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(fallbackUrl));
 //                    context.startActivity(browserIntent);
                     }
