@@ -1,4 +1,4 @@
-# BPN-Webview-Wordpress-App
+# Blaupause Nürnberg App
 
 Bei uns finden Sie Inhalte aus Ihrer Region - von aufbereitet von Studenten der Hochschule Nürnberg. 
 
