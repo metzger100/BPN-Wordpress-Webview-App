@@ -20,10 +20,8 @@ public class CustomWebViewClient extends WebViewClient {
             try {
                 Context context = view.getContext();
                 Intent intent = Intent.parseUri(url, Intent.URI_INTENT_SCHEME);
-
                 if (intent != null) {
                     view.stopLoading();
-
                     PackageManager packageManager = context.getPackageManager();
                     ResolveInfo info = packageManager.resolveActivity(intent, PackageManager.MATCH_DEFAULT_ONLY);
                     if (info != null) {
@@ -32,7 +30,7 @@ public class CustomWebViewClient extends WebViewClient {
                         String fallbackUrl = intent.getStringExtra("browser_fallback_url");
                         view.loadUrl(fallbackUrl);
 
-                        // or call external broswer
+//                    or call external broswer
 //                    Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(fallbackUrl));
 //                    context.startActivity(browserIntent);
                     }
