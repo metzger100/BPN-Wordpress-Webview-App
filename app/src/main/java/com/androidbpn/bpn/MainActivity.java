@@ -9,11 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private WebView mywebView;
-    public int oldPostNumber;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //checks for post number and starts timer to check for new posts
-        oldPostNumber = Notification.getPostNumber();
         //starts the webview to access your wordpresspage
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
