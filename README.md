@@ -2,9 +2,9 @@
 
 Bei uns finden Sie Inhalte aus Ihrer Region - von aufbereitet von Studenten der Hochschule Nürnberg. 
 
-Wir informieren Sie: mit Portraits, Tipps für die Freizeitgestaltung, Beiträgen über Flora und Fauna, leckeren Rezepten und vielem mehr. Lesen Sie bei uns über Ihre Heimat Nürnberg und Umgebung. 
+Wir informieren Sie: Portraits, Tipps für die Freizeitgestaltung, Beiträge über Flora und Fauna, leckeren Rezepte und vieles mehr. Lesen Sie bei uns über Ihre Heimat Mittelfranken. 
 
-Der Blog entstand im Rahmen der Studiengangs Technischer Journalismus und PR
+Der Blog entstand im Rahmen eines Projekts der Studiengangs Technischer Journalismus und PR
 
 Website:
 http://blaupause-nuernberg.serveblog.net/
