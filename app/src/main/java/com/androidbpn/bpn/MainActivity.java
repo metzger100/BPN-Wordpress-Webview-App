@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mywebView = findViewById(R.id.webview);
+        mywebView.getSettings().setAppCacheEnabled(true);
         WebSettings webSettings= mywebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         mywebView.loadUrl("http://blaupause-nuernberg.serveblog.net/");
