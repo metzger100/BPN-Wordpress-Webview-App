@@ -27,7 +27,7 @@ public class CustomWebViewClient extends WebViewClient {
                     if (info != null) {
                         context.startActivity(intent);
                     } else {
-                        String fallbackUrl = intent.getStringExtra("browser_fallback_url");
+                        String fallbackUrl = intent.getStringExtra("http://blaupause-nuernberg.serveblog.net/");
                         view.loadUrl(fallbackUrl);
                     }
 
