@@ -22,3 +22,11 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+android {
+    defaultConfig {
+        versionCode 2
+        versionName "1.1"
+    }
+
+}
