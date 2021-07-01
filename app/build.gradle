@@ -20,12 +20,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
-    flavorDimensions 'release'
+    flavorDimensions 'Release'
     productFlavors {
-        version {
-            dimension 'release'
-            versionName '1.1'
+        Version {
+            dimension 'Release'
             versionCode 2
+            versionName '1.1'
         }
     }
 }
