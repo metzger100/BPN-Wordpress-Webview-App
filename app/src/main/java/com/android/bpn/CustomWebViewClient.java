@@ -1,4 +1,4 @@
-package com.androidbpn.bpn;
+package com.android.bpn;
 
 import android.content.Context;
 import android.content.Intent;

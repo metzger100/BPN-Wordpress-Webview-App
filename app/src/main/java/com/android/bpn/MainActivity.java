@@ -1,4 +1,4 @@
-package com.androidbpn.bpn;
+package com.android.bpn;
 
 import android.os.Bundle;
 import android.webkit.WebSettings;
@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
         mywebView.loadUrl("http://blaupause-nuernberg.serveblog.net/");
         // Line of Code for opening links in app. Look at CustomWebViewClient-Class
-        mywebView.setWebViewClient(new com.androidbpn.bpn.CustomWebViewClient());
+        mywebView.setWebViewClient(new com.android.bpn.CustomWebViewClient());
     }
 
     //Code For Back Button
